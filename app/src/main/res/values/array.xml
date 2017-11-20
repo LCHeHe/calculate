@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="进制">
+            <item>十转二</item>
+            <item>十转八</item>
+            <item>十转十六</item>
+        </string-array>
+
+        <string-array name="单位">
+        <item>英寸->厘米</item>
+        <item>厘米->英寸</item>
+        <item>英尺->厘米</item>
+        <item>厘米->英寸</item>
+     </string-array>
+</resources>
+
+
+
